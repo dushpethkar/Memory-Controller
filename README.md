@@ -3,7 +3,7 @@
 
 -- Design Name:	 Memory Controller
 -- Module Name:    Top_AMBA - Behavioral 
--- Project Name: 	 lDesign and Implementation Of AMBA-AHB based Memory Controller
+-- Project Name:   lDesign and Implementation Of AMBA-AHB based Memory Controller
 ----------------------------------------------------------------------------------
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
